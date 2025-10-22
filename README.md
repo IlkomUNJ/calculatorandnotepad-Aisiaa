@@ -1,3 +1,5 @@
+Nama : Aisyah Septiani Indah Rizki
+NIM  : 1313623011
 [Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-220d1afcd034e0c95dce47aedefeee2db2c7c493a4a6c4f15d66f7ab97dfd650c.svg)](https://classroom.github.com/a/oJeXn0j8)
 # ScientificApplication
 
